@@ -35,7 +35,7 @@ class ProfileController {
   async create ({ request }) {
     const data = request.only(["name", "age", "gender", "adress", "address", "latitude", "longitude"])
 
-    const profile = await ProfileController.create(data)
+    const profile = await Profile.create(data)
 
     return profile
   }
