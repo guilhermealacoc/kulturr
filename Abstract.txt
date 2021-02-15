@@ -1,0 +1,11 @@
+O projeto consiste num estudo de um produto de uma Lean Startup, onde será desenvolvido um MVP
+para uma startup voltada ao mercado cultural. O estudo sera pontuado em explicar os conceitos e 
+os motivos dos componentes da aplicação construida, objetivos na criação da aplicação para entrega
+do produto no prazo do MVP.
+Estudo das estratégias pensando em um time limitado e suas tecnologias, visando a criação de um produto 
+escalável, de fácil manutenção e com tecnologias atuais.
+A parte técnica consiste em:
+- Desacoplamento de funcionalidades
+- Arquitetura e padrão no código
+- Deploy
+- Mobile
