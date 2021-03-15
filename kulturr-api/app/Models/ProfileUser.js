@@ -4,6 +4,13 @@
 const Model = use('Model')
 
 class ProfileUser extends Model {
+    profileUser (){
+        return this.belongsTo('App/Models/User')
+    }
+    
+    wallet (){
+        return this.hasOne('App/Models/Wallet')
+    }
 }
 
 module.exports = ProfileUser
