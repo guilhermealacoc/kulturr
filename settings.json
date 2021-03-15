@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Danker Neon",
+    "window.zoomLevel": 0,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "diffEditor.renderSideBySide": false,
+    "git.confirmSync": false,
+    "editor.tokenColorCustomizations": null,
+    "editor.fontWeight": null
+}
